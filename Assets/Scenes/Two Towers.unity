@@ -2531,7 +2531,7 @@ PrefabInstance:
     - target: {fileID: 9171141995910639590, guid: 3424992e3c2bf9a40b320f1d9be3affe,
         type: 3}
       propertyPath: numArrows
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9171141995910639612, guid: 3424992e3c2bf9a40b320f1d9be3affe,
         type: 3}
@@ -3365,7 +3365,7 @@ MonoBehaviour:
   focus1: {fileID: 1925207392}
   focus2: {fileID: 1454536092}
   minZoom: 1
-  yOffset: 2
+  yOffset: 1.5
   maxZoom: 5.5
   panThreshold: 6
 --- !u!114 &1957604469
@@ -3643,7 +3643,7 @@ PrefabInstance:
     - target: {fileID: 9171141995910639590, guid: 3424992e3c2bf9a40b320f1d9be3affe,
         type: 3}
       propertyPath: numArrows
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9171141995910639612, guid: 3424992e3c2bf9a40b320f1d9be3affe,
         type: 3}
